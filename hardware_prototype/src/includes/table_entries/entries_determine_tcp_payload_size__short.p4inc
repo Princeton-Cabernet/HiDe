@@ -1,0 +1,16 @@
+( 4w5, 16w1040, 4w5 ):   act_set_tcp_payload_size( 32w1000 );
+( 4w5, 16w1041, 4w5 ):   act_set_tcp_payload_size( 32w1001 );
+( 4w5, 16w1042, 4w5 ):   act_set_tcp_payload_size( 32w1002 );
+( 4w5, 16w1043, 4w5 ):   act_set_tcp_payload_size( 32w1003 );
+( 4w5, 16w1044, 4w5 ):   act_set_tcp_payload_size( 32w1004 );
+( 4w5, 16w1045, 4w5 ):   act_set_tcp_payload_size( 32w1005 );
+( 4w5, 16w1046, 4w5 ):   act_set_tcp_payload_size( 32w1006 );
+( 4w5, 16w1047, 4w5 ):   act_set_tcp_payload_size( 32w1007 );
+( 4w5, 16w1048, 4w5 ):   act_set_tcp_payload_size( 32w1008 );
+( 4w5, 16w1049, 4w5 ):   act_set_tcp_payload_size( 32w1009 );
+( 4w5, 16w1050, 4w5 ):   act_set_tcp_payload_size( 32w1010 );
+( 4w5, 16w1051, 4w5 ):   act_set_tcp_payload_size( 32w1011 );
+( 4w5, 16w1052, 4w5 ):   act_set_tcp_payload_size( 32w1012 );
+( 4w5, 16w1053, 4w5 ):   act_set_tcp_payload_size( 32w1013 );
+( 4w5, 16w1054, 4w5 ):   act_set_tcp_payload_size( 32w1014 );
+( 4w5, 16w1055, 4w5 ):   act_set_tcp_payload_size( 32w1015 );
